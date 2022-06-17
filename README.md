@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artistro
-- 👀 I’m interested in guitar, video games, and wood working.
+- 👀 I’m interested in anime, video games, wood working, and ATLA.
 - 🌱 I’m currently learning python.
 - 📫 You can reach me at austincgause@gmail.com
 

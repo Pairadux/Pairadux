@@ -1,4 +1,5 @@
-- 👋 Hi, I’m AustinCGause.
+- 👋 **Hi, I’m AustinCGause**.
+ 
 - 👀 I’m interested in Video Games, Anime, Wood Working, Drones, Photography, Coding, Mythology, and more...
 - 🌱 I’m currently learning Python, Java, Vue, vite, Flask, Tailwind, & C#
 - :computer: My passion is web development, my preferred stack is Flask, Tailwind, & Alpine.js, but I am learning Vite + Vue at the moment.

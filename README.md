@@ -5,7 +5,7 @@
 - :school: I graduated from Bainbridge High School in May of 2022, and am currently attending Valdosta State University with a major in Computer Science and a minor in mathematics.
 - :mount_fuji: I love learning about other cultures and their languages, and hope to one day be a polyglot.-->
 
-# 👋 Hello World! I'm AustinCGause.
+# 👋 Hello World! I'm Austin Gause.
 
 I'm a passionate web developer, an avid learner, and a lover of cultures. Here's a bit more about me:
 

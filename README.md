@@ -11,15 +11,15 @@ I'm a passionate web developer, an avid learner, and a lover of cultures. Here's
 
 ## 🎮 Interests & Hobbies
 - **Video Games**: From retro classics to the latest releases, I'm always up for a gaming session.
-- **Anime**: Whether it's a heartwarming slice-of-life or an action-packed shonen, I'm all in.
+- **Anime**: Experiencing surreal moments, should they be intense fight seens, or tear-jerking romances.
 - **Wood Working**: Crafting, designing, and bringing ideas to life with my hands.
 - **Drones & Photography**: Capturing the world from unique perspectives.
 - **Mythology**: Delving into ancient tales and understanding the stories that shaped civilizations.
 
 ## 🛠️ Tech Stack & Learning Path
-- **Passionate About**: Web development with Flask, Tailwind, & Alpine.js.
+- **Passionate About**: Web development with Flask, Tailwind, & Vue; Software Development with Electron, and CLI Development with Rust.
 - **Currently Exploring**: The dynamic duo of Vite + Vue.
-- **Languages & Tools**: Python, Java, C#, and more on the horizon.
+- **Languages & Tools**: Advanced Proficiency in Python, Java, HTML, & CSS; Learning Ruby, Rust, Dart, JavaScript, and C#.
 
 ## 🎓 Education & Aspirations
 - Graduated from **Bainbridge High School** in 2022.
@@ -32,5 +32,5 @@ I'm deeply fascinated by the tapestry of cultures around the world. From the int
 ---
 
 **Let's Connect!**  
-[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/austincgause/) | [Twitter](https://twitter.com/Austin_Gause_) | [Portfolio](https://www.austingause.com)
 

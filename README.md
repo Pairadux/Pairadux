@@ -19,7 +19,7 @@ I'm a passionate web developer, an avid learner, and a lover of cultures. Here's
 ## 🛠️ Tech Stack & Learning Path
 - **Passionate About**: Web development with Flask, Tailwind, & Vue; Software Development with Electron, and CLI Development with Rust.
 - **Currently Exploring**: The dynamic duo of Vite + Vue.
-- **Languages & Tools**: Advanced Proficiency in Python, Java, HTML, & CSS; Learning Ruby, Rust, Dart, JavaScript, and C#.
+- **Languages & Tools**: Advanced Proficiency in Python, Java, HTML, & CSS; Learning Ruby, Rust, Dart, JavaScript, Swift, and C#.
 
 ## 🎓 Education & Aspirations
 - Graduated from **Bainbridge High School** in 2022.

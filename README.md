@@ -11,7 +11,7 @@ I'm a passionate web developer, an avid learner, and a lover of cultures. Here's
 
 ## 🎮 Interests & Hobbies
 - **Video Games**: From retro classics to the latest releases, I'm always up for a gaming session.
-- **Anime**: Experiencing surreal moments, should they be intense fight seens, or tear-jerking romances.
+- **Anime**: Experiencing surreal moments, should they be intense fight scenes, or tear-jerking romances.
 - **Wood Working**: Crafting, designing, and bringing ideas to life with my hands.
 - **Drones & Photography**: Capturing the world from unique perspectives.
 - **Mythology**: Delving into ancient tales and understanding the stories that shaped civilizations.

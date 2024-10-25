@@ -12,13 +12,13 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 
 ## 👩‍💻 I'm currently working on...
 - Developing personal skills
-- Improving my linux workspace
+- Improving my Linux workspace
 - Creating CLI applications
 
 ## 🧠 I'm currently learning...
-- Lua Scripting (Neovim plugins)
+- C, Rust, & Lua
 - Shell Scripting
-- The C Programming Language
+- Neovim Plugin Creation
 
 ## ⚡️ Fun fact(s)...
 - I love building computers

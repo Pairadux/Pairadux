@@ -14,13 +14,19 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 - Developing personal skills
 - Improving my Linux workspace
 - Creating CLI applications
+- Organiziging my documents
+- Getting my B.S. Computer Science Degree
+- A TUI todolist app called [TaskCrab](https://github.com/Pairadux/taskcrab)
 
 ## 🧠 I'm currently learning...
 - C, Rust, & Lua
 - Shell Scripting
 - Neovim Plugin Creation
+- Game/App development with Godot
 
 ## ⚡️ Fun fact(s)...
 - I love building computers
-- I had a bearded dragon named Loki
-- I can play the Ocarina
+- I have a domestic shorthair tuxedo cat named Jiji
+- I can play the Ocarina (somewhat)
+- My favorite game of all time is The Legend of Zelda: Breath of the Wild
+- I have a dual-booted pc with Windows 11 & Arch Linux

@@ -12,7 +12,7 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 
 ## 👩‍💻 I'm currently working on...
 - Developing personal skills
-- Improving my Linux workspace
+- My Arch Linux [dotfiles](https://github.com/Pairadux/dotfiles)
 - Creating CLI applications
 - Organiziging my documents
 - Getting my B.S. Computer Science Degree

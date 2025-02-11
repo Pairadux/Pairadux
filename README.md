@@ -19,7 +19,7 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 - A TUI todolist app called [TaskCrab](https://github.com/Pairadux/taskcrab)
 
 ## 🧠 I'm currently learning...
-- C, Rust, & Lua
+- C, Go, Python, & Lua
 - Shell Scripting
 - Neovim Plugin Creation
 - Game/App development with Godot

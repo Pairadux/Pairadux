@@ -26,7 +26,8 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 
 ## ⚡️ Fun fact(s)...
 - I love building computers
-- I have a domestic shorthair tuxedo cat named Jiji
+- I have a cat named Jiji
 - I can play the Ocarina (somewhat)
 - My favorite game of all time is The Legend of Zelda: Breath of the Wild
+    - With runner-ups being Baldur's Gate 3 and Sekiro: Shadows Die Twice
 - I have a dual-booted pc with Windows 11 & Arch Linux

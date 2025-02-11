@@ -16,7 +16,7 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 - Creating CLI applications
 - Organiziging my documents
 - Getting my B.S. Computer Science Degree
-- A TUI todolist app called [TaskCrab](https://github.com/Pairadux/taskcrab)
+- A TUI todolist app called [GoTm](https://github.com/Pairadux/gotm)
 
 ## 🧠 I'm currently learning...
 - C, Go, Python, & Lua

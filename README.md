@@ -8,13 +8,12 @@ A Computer Science major passionate about web development, Linux, and coding—a
 [![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com)
 
 ## 🛠 Skills
-Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Java, C, Python, Operating Systems (Windows, Linux, MacOS), Networking
+Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), Go, Java, C, Python, Operating Systems (Windows, Linux, MacOS), Networking
 
 ## 👩‍💻 I'm currently working on...
 - Developing personal skills
 - My Arch Linux [dotfiles](https://github.com/Pairadux/dotfiles)
 - Creating CLI applications
-- Organiziging my documents
 - Getting my B.S. Computer Science Degree
 - A TUI todolist app called [GoTm](https://github.com/Pairadux/gotm)
 
@@ -26,7 +25,7 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), ~Rust, Jav
 
 ## ⚡️ Fun fact(s)...
 - I love building computers
-- I have a cat named Jiji
+- I have a cat named Jiji, named after the cat from [Kiki's Delivery Service](https://ghibli.fandom.com/wiki/Jiji)
 - I can play the Ocarina (somewhat)
 - My favorite game of all time is The Legend of Zelda: Breath of the Wild
     - With runner-ups being Baldur's Gate 3 and Sekiro: Shadows Die Twice

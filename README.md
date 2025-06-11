@@ -24,9 +24,9 @@ Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), Go, Java, 
 - Game/App development with Godot
 
 ## ⚡️ Fun fact(s)...
+- The name "Pairadux" is a play on words for "pair of ducks" and "paradox"
 - I love building computers
 - I have a cat named Jiji, named after the cat from [Kiki's Delivery Service](https://ghibli.fandom.com/wiki/Jiji)
 - I can play the Ocarina (somewhat)
 - My favorite game of all time is The Legend of Zelda: Breath of the Wild
     - With runner-ups being Baldur's Gate 3 and Sekiro: Shadows Die Twice
-- I have a dual-booted pc with Windows 11 & Arch Linux

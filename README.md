@@ -8,14 +8,16 @@ A Computer Science major passionate about web development, Linux, and coding—a
 [![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com)
 
 ## 🛠 Skills
-Web Development (HTML, CSS, Javascript, Sveltekit, Svelte, Tailwind), Go, Java, C, Python, Operating Systems (Windows, Linux, MacOS), Networking
+- <strong>Web Development</strong> HTML, CSS, Sveltekit, Svelte, Tailwind, Bulma
+- <strong>Programming</strong>Go, Java, C, Python
+- <strong>Operating Systems</strong> Windows, Linux, MacOS
 
 ## 👩‍💻 I'm currently working on...
 - Developing personal skills
 - My Arch Linux [dotfiles](https://github.com/Pairadux/dotfiles)
 - Creating CLI applications
 - Getting my B.S. Computer Science Degree
-- A TUI todolist app called [GoTm](https://github.com/Pairadux/gotm)
+- A Tmux Session Manager CLI tool called [Muxly](https://github.com/Pairadux/muxly)
 
 ## 🧠 I'm currently learning...
 - C, Go, Python, & Lua

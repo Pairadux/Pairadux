@@ -8,9 +8,9 @@ A Computer Science major passionate about web development, Linux, and coding—a
 [![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com)
 
 ## 🛠 Skills
-- <strong>Web Development</strong> HTML, CSS, Sveltekit, Svelte, Tailwind, Bulma
-- <strong>Programming</strong>Go, Java, C, Python
-- <strong>Operating Systems</strong> Windows, Linux, MacOS
+- **Web Development:** HTML, CSS, Sveltekit, Svelte, Tailwind, Bulma
+- **Programming:** Go, Java, C, Python
+- **Operating Systems:** Windows, Linux, MacOS
 
 ## 👩‍💻 I'm currently working on...
 - Developing personal skills

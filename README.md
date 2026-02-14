@@ -5,7 +5,7 @@ A Computer Science major passionate about web development, Linux, and coding—a
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.austingause.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austincgause)
-[![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com) [I post very infrequently]
+[![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com)
 
 ## 🛠 Skills
 - **Web Development:** HTML, CSS, Sveltekit, Svelte, Tailwind

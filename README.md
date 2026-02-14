@@ -5,25 +5,25 @@ A Computer Science major passionate about web development, Linux, and coding—a
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.austingause.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austincgause)
-[![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com)
+[![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/austingause.com) [I post very infrequently]
 
 ## 🛠 Skills
-- **Web Development:** HTML, CSS, Sveltekit, Svelte, Tailwind, Bulma
-- **Programming:** Go, Java, C, Python
+- **Web Development:** HTML, CSS, Sveltekit, Svelte, Tailwind
+- **Programming:** Go, Java, C, Python, Dart
 - **Operating Systems:** Windows, Linux, MacOS
 
 ## 👩‍💻 I'm currently working on...
 - Developing personal skills
 - My Arch Linux [dotfiles](https://github.com/Pairadux/dotfiles)
+- A Tmux Session Manager CLI tool called [Muxly](https://github.com/Pairadux/muxly)
+- A natively cross-platform, FSRS flashcard app called [Lapse](https://github.com/Pairadux/lapse)
 - Creating CLI applications
 - Getting my B.S. Computer Science Degree
-- A Tmux Session Manager CLI tool called [Muxly](https://github.com/Pairadux/muxly)
 
 ## 🧠 I'm currently learning...
-- C, Go, Python, & Lua
+- Go, Dart, & Flutter
 - Shell Scripting
-- Neovim Plugin Creation
-- Game/App development with Godot
+- Network Security
 
 ## ⚡️ Fun fact(s)...
 - The name "Pairadux" is a play on words for "pair of ducks" and "paradox"

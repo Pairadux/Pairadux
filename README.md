@@ -1,6 +1,6 @@
 # Hi, I'm Austin! 👋
 
-A Computer Science major passionate about web development, Linux, and coding—always curious and driven to solve complex problems.
+Computer Science major with a passion for web development, Linux, and coding. Always curious and driven to solve complex problems.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.austingause.com)

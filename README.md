@@ -1,6 +1,6 @@
 # Hi, I'm Austin! 👋
 
-Computer Science major with a passion for web development, Linux, and coding. Always curious and driven to solve complex problems.
+Computer Science major with a passion for systems programming, Linux, and developer tooling. Always curious and driven to solve complex problems.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.austingause.com)
@@ -12,18 +12,16 @@ Computer Science major with a passion for web development, Linux, and coding. Al
 - **Programming:** Go, Java, C, Python, Dart
 - **Operating Systems:** Windows, Linux, MacOS
 
-## 👩‍💻 I'm currently working on...
-- Developing personal skills
+## 🧑‍💻 I'm currently working on...
 - My Arch Linux [dotfiles](https://github.com/Pairadux/dotfiles)
 - A Tmux Session Manager CLI tool called [Muxly](https://github.com/Pairadux/muxly)
 - A natively cross-platform, FSRS flashcard app called [Lapse](https://github.com/Pairadux/lapse)
-- Creating CLI applications
-- Getting my B.S. Computer Science Degree
+- Graduating May 2026 with a B.S. Computer Science Degree
 
 ## 🧠 I'm currently learning...
-- Go, Dart, & Flutter
-- Shell Scripting
+- Dart, & Flutter
 - Network Security
+- Low-level Systems Programming
 
 ## ⚡️ Fun fact(s)...
 - The name "Pairadux" is a play on words for "pair of ducks" and "paradox"
